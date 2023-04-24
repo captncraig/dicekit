@@ -1,6 +1,6 @@
 This is a dice kit.
 
-BOM:
+**BOM:**
 
 - U1: ATTINY85 Microcontroller [(mouser)](https://www.mouser.com/ProductDetail/Microchip-Technology/ATTINY85V-10PU?qs=8jWQYweyg6PVwwefMyMCGw%3D%3D)
 - U2: MAX7219 LED Driver [(mouser)](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX7219CNG%2b?qs=1THa7WoU59Gme2Z0GeVXUQ%3D%3D)
@@ -16,7 +16,8 @@ BOM:
 - R2: LED current limit resistor 27k [(mouser)](https://www.mouser.com/ProductDetail/660-CF1-4CT52R273J)
 - R2-R10: 1206 SMT resistors (1k) [(mouser)](https://www.mouser.com/ProductDetail/KOA-Speer/RK73H2BTTD1001F?qs=sGAEpiMZZMvdGkrng054tz%252BUJoUq5nhIcxIoGgSvcT0%3D)
 
-Cost:
+**Cost:**
+
 |  Part | Qty  | Unit  | Total  |   
 |---|---|---|---|
 | U1 | 1 | $2.19 | $2.18 |
@@ -24,8 +25,10 @@ Cost:
 | U3 | 1 | $.49  | $.49  |
 | D1 | 1 | $4.50 | $4.50 |
 | S1 | 1 | $.55 (per unit) | $.55 |
+| S2 | 1 | $1.95 | $1.95 |
 | C1 | 1 | $.16 | $.16 |
 | C2 | 1 | $.16 | $.16 |
 | R2 | 1 | $.10 | $.10 |
+| R3-10 | 8 | $.025 | $.20 |
 
-Total ~$20
+Total ~$22
