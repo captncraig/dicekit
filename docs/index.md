@@ -1,5 +1,8 @@
 This is a dice kit.
 
+![Front of board](front.png)
+![Back of board](back.png)
+
 **BOM:**
 
 - U1: ATTINY85 Microcontroller [(mouser)](https://www.mouser.com/ProductDetail/Microchip-Technology/ATTINY85V-10PU?qs=8jWQYweyg6PVwwefMyMCGw%3D%3D)
