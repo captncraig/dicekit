@@ -13,7 +13,7 @@ This is a dice kit.
 - S2: 8 Position Rotary Selector [(adafruit)](https://www.adafruit.com/product/2925)
 - C1: 1 uF capacitor [(mouser)](https://www.mouser.com/ProductDetail/810-FK18X7R1C105K)
 - C2: 2.2 uF capacitor [(mouser)](https://www.mouser.com/ProductDetail/810-FG18X5R1E225KRT6)
-- C3,C4: decoupling xapacitors .1uF 
+- C3,C4: decoupling capacitors .1uF 
 - C5: 10uF electrolytic capacitor 
 - R1: RST pull-up resistor 1k
 - R2: LED current limit resistor 27k [(mouser)](https://www.mouser.com/ProductDetail/660-CF1-4CT52R273J)
