@@ -7,13 +7,13 @@ BOM:
 - D1: 2 Digit RGB Seven Segment Display [(sparkfun)](https://www.sparkfun.com/products/13999)
 - U3: Power Regulator [(mouser)](https://www.mouser.com/ProductDetail/Diodes-Incorporated/AP7381-33V-A?qs=1mbolxNpo8cFZwU4HR7fJA%3D%3D)
 - S1: Button [(sparkfun)](https://www.sparkfun.com/products/10302)
-- S2: 8 Position Rotary Selector
-- C1: 
-- C2: 
-- C3,C4: Decoupling Capacitors
-- C5: 
-- R1: RST pull-up resistor
-- R2: LED current limit resistor 
+- S2: 8 Position Rotary Selector [(adafruit)](https://www.adafruit.com/product/2925)
+- C1: 1 uF capacitor [(mouser)](https://www.mouser.com/ProductDetail/810-FK18X7R1C105K)
+- C2: 2.2 uF capacitor [(mouser)](https://www.mouser.com/ProductDetail/810-FG18X5R1E225KRT6)
+- C3,C4: decoupling xapacitors .1uF 
+- C5: 10uF electrolytic capacitor 
+- R1: RST pull-up resistor 1k
+- R2: LED current limit resistor 27k [(mouser)](https://www.mouser.com/ProductDetail/660-CF1-4CT52R273J)
 - R2-R10: 1206 SMT resistors (1k) [(mouser)](https://www.mouser.com/ProductDetail/KOA-Speer/RK73H2BTTD1001F?qs=sGAEpiMZZMvdGkrng054tz%252BUJoUq5nhIcxIoGgSvcT0%3D)
 
 Cost:
@@ -24,3 +24,8 @@ Cost:
 | U3 | 1 | $.49  | $.49  |
 | D1 | 1 | $4.50 | $4.50 |
 | S1 | 1 | $.55 (per unit) | $.55 |
+| C1 | 1 | $.16 | $.16 |
+| C2 | 1 | $.16 | $.16 |
+| R2 | 1 | $.10 | $.10 |
+
+Total ~$20
